@@ -17,7 +17,3 @@ Java, Selenium WebDriver, ChromeDriver, Maven
 ## Run
 
 Run the `main` method in `Main.java` from your IDE.
-
-## Author
-
-**Your Name** | [GitHub](https://github.com/your-username)
